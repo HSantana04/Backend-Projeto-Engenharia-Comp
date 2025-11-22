@@ -1,0 +1,11 @@
+C:\Users\heron\source\repos\FinanSmartAI\FinanSmartAI.Domain\bin\Debug\net9.0\FinanSmartAI.Domain.deps.json
+C:\Users\heron\source\repos\FinanSmartAI\FinanSmartAI.Domain\bin\Debug\net9.0\FinanSmartAI.Domain.dll
+C:\Users\heron\source\repos\FinanSmartAI\FinanSmartAI.Domain\bin\Debug\net9.0\FinanSmartAI.Domain.pdb
+C:\Users\heron\source\repos\FinanSmartAI\FinanSmartAI.Domain\obj\Debug\net9.0\FinanSmartAI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heron\source\repos\FinanSmartAI\FinanSmartAI.Domain\obj\Debug\net9.0\FinanSmartAI.Domain.AssemblyInfoInputs.cache
+C:\Users\heron\source\repos\FinanSmartAI\FinanSmartAI.Domain\obj\Debug\net9.0\FinanSmartAI.Domain.AssemblyInfo.cs
+C:\Users\heron\source\repos\FinanSmartAI\FinanSmartAI.Domain\obj\Debug\net9.0\FinanSmartAI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\heron\source\repos\FinanSmartAI\FinanSmartAI.Domain\obj\Debug\net9.0\FinanSmartAI.Domain.dll
+C:\Users\heron\source\repos\FinanSmartAI\FinanSmartAI.Domain\obj\Debug\net9.0\refint\FinanSmartAI.Domain.dll
+C:\Users\heron\source\repos\FinanSmartAI\FinanSmartAI.Domain\obj\Debug\net9.0\FinanSmartAI.Domain.pdb
+C:\Users\heron\source\repos\FinanSmartAI\FinanSmartAI.Domain\obj\Debug\net9.0\ref\FinanSmartAI.Domain.dll
